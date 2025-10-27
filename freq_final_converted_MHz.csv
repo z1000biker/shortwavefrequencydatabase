@@ -1,0 +1,2009 @@
+Frequency (MHz),Station
+0.02,IND VTX1 Indian Navy
+0.02,NOR JXN Noviken Sub comms
+0.02,IND VTX2 Indian Navy
+0.02,RUS RDL Russian Navy
+0.02,IND VTX3 Indian Navy
+0.02,IND VTX4 Indian Navy
+0.02,BLR RJH69 Molodechno
+0.02,KGZ RJH66 Bishkek
+0.02,KGZ RJH66 Bishkek
+0.02,RUS RJH63 Krasnodar
+0.02,RUS RJH77 Arkhangelsk
+0.02,RUS RJH99 Nizhni Novgorod
+0.02,BLR RJH69 Molodechno
+0.02,KGZ RJH66 Bishkek
+0.02,KGZ RJH66 Bishkek
+0.02,RUS RJH63 Krasnodar
+0.02,RUS RJH77 Arkhangelsk
+0.02,RUS RJH99 Nizhni Novgorod
+0.03,BLR RJH69 Molodechno
+0.03,KGZ RJH66 Bishkek
+0.03,KGZ RJH66 Bishkek
+0.03,RUS RJH63 Krasnodar
+0.03,RUS RJH77 Arkhangelsk
+0.03,RUS RJH99 Nizhni Novgorod
+0.03,BLR RJH69 Molodechno
+0.03,KGZ RJH66 Bishkek
+0.03,KGZ RJH66 Bishkek
+0.03,RUS RJH63 Krasnodar
+0.03,RUS RJH77 Arkhangelsk
+0.03,RUS RJH99 Nizhni Novgorod
+0.03,BLR RJH69 Molodechno
+0.03,KGZ RJH66 Bishkek
+0.03,KGZ RJH66 Bishkek
+0.03,RUS RJH63 Krasnodar
+0.03,RUS RJH77 Arkhangelsk
+0.03,RUS RJH99 Nizhni Novgorod
+0.03,RUS RDL Russian Navy
+0.04,ISL TFK US Navy Grindavik
+0.06,USA WWVB Colorado
+0.07,RUS RBU Time Signal
+0.07,CHN BPC Time Signal
+0.1,CHN BPL Time Signal
+0.14,HNG EFR Teleswitch
+0.55,CHN CNR5 Cross-Strait Radio
+0.55,CHN CNR5 Cross-Strait Radio
+0.55,CHN CNR5 Cross-Strait Radio
+0.55,CHN CNR5 Cross-Strait Radio
+0.55,CHN CNR5 Cross-Strait Radio
+0.58,IRN IRIB Voice of I.R.Iran
+0.59,IND AIR Akashvani Ext.Sce
+0.59,IND AIR Akashvani Ext.Sce
+0.59,IND AIR Akashvani Ext.Sce
+0.59,IND AIR Akashvani Ext.Sce
+0.59,IND AIR Akashvani Ext.Sce
+0.61,IRN IRIB Voice of I.R.Iran
+0.64,IRN IRIB Voice of I.R.Iran
+0.64,IRN IRIB Voice of I.R.Iran
+0.64,IRN IRIB Voice of I.R.Iran
+0.64,IRN IRIB Voice of I.R.Iran
+0.7,IRN IRIB Voice of I.R.Iran
+0.7,IRN IRIB Voice of I.R.Iran
+0.7,IRN IRIB Voice of I.R.Iran
+0.7,IRN IRIB Voice of I.R.Iran
+0.7,IRN IRIB Voice of I.R.Iran
+0.7,IRN IRIB Voice of I.R.Iran
+0.7,IRN IRIB Voice of I.R.Iran
+0.72,IRN IRIB Voice of I.R.Iran
+0.72,IRN IRIB Voice of I.R.Iran
+0.72,IRN IRIB Voice of I.R.Iran
+0.72,IRN IRIB Voice of I.R.Iran
+0.77,CHN CNR5 Cross-Strait Radio
+0.77,CHN CNR5 Cross-Strait Radio
+0.77,CHN CNR5 Cross-Strait Radio
+0.77,CHN CNR5 Cross-Strait Radio
+0.77,CHN CNR5 Cross-Strait Radio
+0.77,IRN IRIB Voice of I.R.Iran
+0.77,IRN IRIB Voice of I.R.Iran
+0.77,IRN IRIB Voice of I.R.Iran
+0.77,IRN IRIB Voice of I.R.Iran
+0.77,IRN IRIB Voice of I.R.Iran
+0.77,IRN IRIB Voice of I.R.Iran
+0.84,CHN CNR5 Cross-Strait Radio
+0.84,CHN CNR5 Cross-Strait Radio
+0.84,CHN CNR5 Cross-Strait Radio
+0.84,CHN CNR5 Cross-Strait Radio
+0.84,CHN CNR5 Cross-Strait Radio
+0.97,KOR KBS Hanminjok
+0.97,KOR KBS Hanminjok
+1.07,IND AIR Akashvani Ext.Sce
+1.07,IND AIR Akashvani Ext.Sce
+1.07,IND AIR Akashvani Ext.Sce
+1.07,IND AIR Akashvani Ext.Sce
+1.07,IND AIR Akashvani Ext.Sce
+1.07,IND AIR Akashvani Ext.Sce
+1.07,IND AIR Akashvani Ext.Sce
+1.1,IRN IRIB Voice of I.R.Iran
+1.1,IRN IRIB Voice of I.R.Iran
+1.1,IRN IRIB Voice of I.R.Iran
+1.1,IRN IRIB Voice of I.R.Iran
+1.12,CHN CNR5 Cross-Strait Radio
+1.12,CHN CNR5 Cross-Strait Radio
+1.16,IRN IRIB Voice of I.R.Iran
+1.16,IRN IRIB Voice of I.R.Iran
+1.17,KOR KBS Hanminjok
+1.17,KOR KBS Hanminjok
+1.17,KOR KBS Hanminjok
+1.17,KOR KBS World Radio
+1.17,KOR KBS World Radio
+1.17,KOR KBS World Radio
+1.17,KOR KBS World Radio
+1.19,PHL FEBC Manila
+1.22,CHN CNR 7 Greater Bay Area
+1.22,CHN CNR 7 Greater Bay Area
+1.22,CHN CNR 7 Greater Bay Area
+1.22,CHN CNR 7 Greater Bay Area
+1.22,IRN IRIB Voice of I.R.Iran
+1.32,IRN IRIB Voice of I.R.Iran
+1.32,IRN IRIB Voice of I.R.Iran
+1.32,IRN IRIB Voice of I.R.Iran
+1.4,IRN IRIB Voice of I.R.Iran
+1.45,IRN IRIB Voice of I.R.Iran
+1.56,CHN CNR1 DIGITAL
+1.56,KOR KBS World Radio
+1.57,HKG FEBC Radio Liangyou
+1.57,HKG FEBC Radio Liangyou
+1.57,PHL FEBC Manila
+1.57,PHL FEBC Manila
+1.57,PHL FEBC Manila
+1.62,FRO OXJ Trshavn Radio
+1.64,GRL OYR Aasiaat Radio
+1.64,GRL OYR Aasiaat Radio
+1.64,GRL OYR Aasiaat Radio
+1.64,GRL OYR Aasiaat Radio
+1.64,GRL OYR Aasiaat Radio
+1.64,GRL OYR Aasiaat Radio
+1.64,GRL OYR Aasiaat Radio
+1.64,GRL OYR Aasiaat Radio
+1.64,FRO OXJ Trshavn Radio
+1.64,FRO OXJ Trshavn Radio
+1.64,FRO OXJ Trshavn Radio
+1.67,GRL OYR Aasiaat Radio
+1.67,GRL OYR Aasiaat Radio
+1.67,GRL OYR Aasiaat Radio
+1.67,GRL OYR Aasiaat Radio
+1.67,GRL OYR Aasiaat Radio
+1.67,GRL OYR Aasiaat Radio
+1.67,GRL OYR Aasiaat Radio
+1.67,GRL OYR Aasiaat Radio
+1.76,FRO OXJ Trshavn Radio
+1.87,GRL OYR Aasiaat Radio
+1.87,GRL OYR Aasiaat Radio
+1.87,GRL OYR Aasiaat Radio
+1.87,GRL OYR Aasiaat Radio
+1.87,GRL OYR Aasiaat Radio
+1.87,GRL OYR Aasiaat Radio
+1.87,GRL OYR Aasiaat Radio
+1.87,GRL OYR Aasiaat Radio
+1.9,GRL OYR Aasiaat Radio
+1.9,GRL OYR Aasiaat Radio
+1.9,GRL OYR Aasiaat Radio
+1.9,GRL OYR Aasiaat Radio
+1.9,GRL OYR Aasiaat Radio
+1.9,GRL OYR Aasiaat Radio
+1.9,GRL OYR Aasiaat Radio
+1.9,GRL OYR Aasiaat Radio
+1.93,GRL OYR Aasiaat Radio
+1.93,GRL OYR Aasiaat Radio
+1.93,GRL OYR Aasiaat Radio
+1.93,GRL OYR Aasiaat Radio
+1.93,GRL OYR Aasiaat Radio
+1.93,GRL OYR Aasiaat Radio
+1.93,GRL OYR Aasiaat Radio
+1.93,GRL OYR Aasiaat Radio
+2.0,GRL OYR Aasiaat Radio
+2.0,GRL OYR Aasiaat Radio
+2.0,GRL OYR Aasiaat Radio
+2.0,GRL OYR Aasiaat Radio
+2.0,GRL OYR Aasiaat Radio
+2.0,GRL OYR Aasiaat Radio
+2.0,GRL OYR Aasiaat Radio
+2.0,GRL OYR Aasiaat Radio
+2.05,ALS NOJ Fax Kodiak
+2.05,ALS NOJ Fax Kodiak
+2.05,ALS NOJ Fax Kodiak
+2.05,ALS NOJ Fax Kodiak
+2.05,CAN VAJ Prince Rupert Radio
+2.05,CAN VAJ Prince Rupert Radio
+2.05,CAN VAJ Prince Rupert Radio
+2.05,CAN VAJ Prince Rupert Radio
+2.05,CAN VAJ Prince Rupert Radio
+2.05,CAN VAJ Prince Rupert Radio
+2.05,CAN VAJ Prince Rupert Radio
+2.05,CAN VAJ Prince Rupert Radio
+2.05,CAN VAJ Prince Rupert Radio
+2.05,CAN VAJ Prince Rupert Radio
+2.05,CAN VAJ Prince Rupert Radio
+2.05,CAN VAJ Prince Rupert Radio
+2.05,CAN VAJ Prince Rupert Radio
+2.05,CAN VAJ Prince Rupert Radio
+2.05,CAN VAJ Prince Rupert Radio
+2.06,AUS VMW Wiluna WA
+2.06,ARG L3A Comodoro Rivadavia
+2.06,ARG L3A Comodoro Rivadavia
+2.06,ARG L3A Comodoro Rivadavia
+2.06,ARG L3A Comodoro Rivadavia
+2.09,GRL OYR Aasiaat Radio
+2.09,GRL OYR Aasiaat Radio
+2.09,GRL OYR Aasiaat Radio
+2.09,GRL OYR Aasiaat Radio
+2.09,GRL OYR Aasiaat Radio
+2.09,GRL OYR Aasiaat Radio
+2.09,GRL OYR Aasiaat Radio
+2.09,GRL OYR Aasiaat Radio
+2.09,GRL OYR Aasiaat Radio
+2.09,GRL OYR Aasiaat Radio
+2.09,GRL OYR Aasiaat Radio
+2.09,GRL OYR Aasiaat Radio
+2.09,GRL OYR Aasiaat Radio
+2.09,GRL OYR Aasiaat Radio
+2.09,GRL OYR Aasiaat Radio
+2.09,GRL OYR Aasiaat Radio
+2.12,GRL OYR Aasiaat Radio
+2.12,GRL OYR Aasiaat Radio
+2.12,GRL OYR Aasiaat Radio
+2.12,GRL OYR Aasiaat Radio
+2.12,GRL OYR Aasiaat Radio
+2.12,GRL OYR Aasiaat Radio
+2.12,GRL OYR Aasiaat Radio
+2.12,GRL OYR Aasiaat Radio
+2.12,GRL OYR Aasiaat Radio
+2.12,GRL OYR Aasiaat Radio
+2.12,GRL OYR Aasiaat Radio
+2.12,GRL OYR Aasiaat Radio
+2.12,GRL OYR Aasiaat Radio
+2.12,CAN VCS Halifax Radio
+2.13,GRL OYR Aasiaat Radio
+2.13,GRL OYR Aasiaat Radio
+2.13,GRL OYR Aasiaat Radio
+2.13,GRL OYR Aasiaat Radio
+2.13,GRL OYR Aasiaat Radio
+2.13,GRL OYR Aasiaat Radio
+2.13,GRL OYR Aasiaat Radio
+2.13,GRL OYR Aasiaat Radio
+2.13,GRL OYR Aasiaat Radio
+2.13,GRL OYR Aasiaat Radio
+2.13,GRL OYR Aasiaat Radio
+2.13,GRL OYR Aasiaat Radio
+2.13,GRL OYR Aasiaat Radio
+2.18,BEL OSU Oostende Radio
+2.18,BER ZBM Bermuda Harbor
+2.18,CAN VAJ Prince Rupert Radio
+2.18,CAN VAJ Prince Rupert Radio
+2.18,CAN VAJ Prince Rupert Radio
+2.18,CAN VCF Les Escoumins QC
+2.18,CAN VCF Les Escoumins QC
+2.18,CAN VCO Sydney Radio NS
+2.18,CAN VCS Halifax Radio
+2.18,CAN VCP Placentia NL
+2.18,CAN VCP Placentia NL
+2.18,CAN VFF Iqaluit Radio
+2.18,CAN VFF Iqaluit Radio
+2.18,CAN VFF Iqaluit Radio
+2.18,CAN VFF Iqaluit Radio
+2.18,CAN VFF Iqaluit Radio
+2.18,CAN VFF Iqaluit Radio
+2.18,CAN VFF Iqaluit Radio
+2.18,CAN VOJ Port aux Basques NL
+2.18,CAN VOK Labrador Coastguard
+2.18,CAN VOK Labrador Coastguard
+2.18,CAN VOK Labrador Coastguard
+2.18,CHL CBA Antofagasta Radio
+2.18,CHL CBF Juan Fernandez R.
+2.18,CHL CBM Magallanes Radio
+2.18,CHL CBN Wollaston Radio
+2.18,CHL CBP Puerto Montt Radio
+2.18,CHL CBT Talcahuano Radio
+2.18,CHL CBV Valparaiso Radio
+2.18,CHL CBX Bahia Felix Radio
+2.18,CHN XSJ Zhanjiang Radio
+2.18,CHN XSL Fuzhou Radio
+2.18,CHN XSM Xiamen Radio
+2.18,CHN XSQ Guangzhou Radio
+2.18,CHN XSV Tianjin Radio
+2.18,FRO OXJ Trshavn Radio
+2.18,GRL OYR Aasiaat Radio
+2.18,GRL OYR Aasiaat Radio
+2.18,GRL OYR Aasiaat Radio
+2.18,GRL OYR Aasiaat Radio
+2.18,GRL OYR Aasiaat Radio
+2.18,GRL OYR Aasiaat Radio
+2.18,GRL OYR Aasiaat Radio
+2.18,GRL OYR Aasiaat Radio
+2.18,GRL OYR Aasiaat Radio
+2.18,GRL OYR Aasiaat Radio
+2.18,GRL OYR Aasiaat Radio
+2.18,POL SPL Polish Rescue R.
+2.2,AUS VMC Charleville QL
+2.21,CAN VCS Halifax Radio
+2.21,NZL ZLM Taupo Maritime R.
+2.21,NZL ZLM Taupo Maritime R.
+2.21,NZL ZLM Taupo Maritime R.
+2.21,NZL ZLM Taupo Maritime R.
+2.21,NZL ZLM Taupo Maritime R.
+2.21,NZL ZLM Taupo Maritime R.
+2.21,NZL ZLM Taupo Maritime R.
+2.23,GRL OYR Aasiaat Radio
+2.23,GRL OYR Aasiaat Radio
+2.23,GRL OYR Aasiaat Radio
+2.23,GRL OYR Aasiaat Radio
+2.23,GRL OYR Aasiaat Radio
+2.23,GRL OYR Aasiaat Radio
+2.23,GRL OYR Aasiaat Radio
+2.23,GRL OYR Aasiaat Radio
+2.23,GRL OYR Aasiaat Radio
+2.23,GRL OYR Aasiaat Radio
+2.23,GRL OYR Aasiaat Radio
+2.23,GRL OYR Aasiaat Radio
+2.23,GRL OYR Aasiaat Radio
+2.25,GRL OYR Aasiaat Radio
+2.25,GRL OYR Aasiaat Radio
+2.25,GRL OYR Aasiaat Radio
+2.25,GRL OYR Aasiaat Radio
+2.25,GRL OYR Aasiaat Radio
+2.25,GRL OYR Aasiaat Radio
+2.25,GRL OYR Aasiaat Radio
+2.25,GRL OYR Aasiaat Radio
+2.25,GRL OYR Aasiaat Radio
+2.25,GRL OYR Aasiaat Radio
+2.25,GRL OYR Aasiaat Radio
+2.25,GRL OYR Aasiaat Radio
+2.25,GRL OYR Aasiaat Radio
+2.27,GRL OYR Aasiaat Radio
+2.27,GRL OYR Aasiaat Radio
+2.27,GRL OYR Aasiaat Radio
+2.27,GRL OYR Aasiaat Radio
+2.27,GRL OYR Aasiaat Radio
+2.27,GRL OYR Aasiaat Radio
+2.27,GRL OYR Aasiaat Radio
+2.27,GRL OYR Aasiaat Radio
+2.27,GRL OYR Aasiaat Radio
+2.27,GRL OYR Aasiaat Radio
+2.27,GRL OYR Aasiaat Radio
+2.27,GRL OYR Aasiaat Radio
+2.27,GRL OYR Aasiaat Radio
+2.3,GRL OYR Aasiaat Radio
+2.3,GRL OYR Aasiaat Radio
+2.3,GRL OYR Aasiaat Radio
+2.3,GRL OYR Aasiaat Radio
+2.3,GRL OYR Aasiaat Radio
+2.3,GRL OYR Aasiaat Radio
+2.3,GRL OYR Aasiaat Radio
+2.3,GRL OYR Aasiaat Radio
+2.3,GRL OYR Aasiaat Radio
+2.3,GRL OYR Aasiaat Radio
+2.3,GRL OYR Aasiaat Radio
+2.3,GRL OYR Aasiaat Radio
+2.3,GRL OYR Aasiaat Radio
+2.31,GRL OYR Aasiaat Radio
+2.31,GRL OYR Aasiaat Radio
+2.31,GRL OYR Aasiaat Radio
+2.31,GRL OYR Aasiaat Radio
+2.31,GRL OYR Aasiaat Radio
+2.31,GRL OYR Aasiaat Radio
+2.31,GRL OYR Aasiaat Radio
+2.31,GRL OYR Aasiaat Radio
+2.35,KRE KCBS Pyongyang
+2.4,GRL OYR Aasiaat Radio
+2.4,GRL OYR Aasiaat Radio
+2.4,GRL OYR Aasiaat Radio
+2.4,GRL OYR Aasiaat Radio
+2.4,GRL OYR Aasiaat Radio
+2.4,GRL OYR Aasiaat Radio
+2.4,GRL OYR Aasiaat Radio
+2.4,GRL OYR Aasiaat Radio
+2.4,GRL OYR Aasiaat Radio
+2.4,GRL OYR Aasiaat Radio
+2.4,GRL OYR Aasiaat Radio
+2.4,GRL OYR Aasiaat Radio
+2.4,GRL OYR Aasiaat Radio
+2.47,HOL PBB Navy Den Helder
+2.5,CHN BPM Xian
+2.5,HWA WWVH Hawaii (f.ann.)
+2.5,USA WWV Colorado (m.ann.)
+2.51,NOR LBJ Norway Navy
+2.51,CAN VCF Les Escoumins QC
+2.51,CAN VCP Placentia NL
+2.51,CAN VCP Placentia NL
+2.51,CAN VCS Halifax Radio
+2.51,CAN VFF Iqaluit Radio
+2.51,CAN VFF Iqaluit Radio
+2.51,CAN VFF Iqaluit Radio
+2.51,CAN VFF Iqaluit Radio
+2.51,CAN VFF Iqaluit Radio
+2.51,CAN VFF Iqaluit Radio
+2.51,CAN VFF Iqaluit Radio
+2.51,CAN VOJ Port aux Basques NL
+2.51,CAN VOK Labrador Coastguard
+2.51,CAN VOK Labrador Coastguard
+2.51,CAN VOK Labrador Coastguard
+2.53,CAN VCO Sydney Radio NS
+2.54,CAN VCP Placentia NL
+2.54,CAN VCS Halifax Radio
+2.54,CAN VOK Labrador Coastguard
+2.54,CAN VOK Labrador Coastguard
+2.54,MRT CROSS Martinique Wx
+2.54,MRT CROSS Martinique Wx
+2.56,CAN VFF Iqaluit Radio
+2.56,CAN VFF Iqaluit Radio
+2.58,BER ZBM Bermuda Harbor
+2.58,BER ZBM Bermuda Harbor
+2.58,BER ZBM Bermuda Harbor
+2.58,BER ZBM Bermuda Harbor
+2.58,BER ZBM Bermuda Harbor
+2.58,BER ZBM Bermuda Harbor
+2.58,CAN VCF Les Escoumins QC
+2.58,CAN VCF Les Escoumins QC
+2.58,CAN VCO Sydney Radio NS
+2.58,CAN VCP Placentia NL
+2.58,CAN VCP Placentia NL
+2.58,CAN VCS Halifax Radio
+2.58,CAN VCS Halifax Radio
+2.58,CAN VFF Iqaluit Radio
+2.58,CAN VFF Iqaluit Radio
+2.58,CAN VFF Iqaluit Radio
+2.58,CAN VFF Iqaluit Radio
+2.58,CAN VFF Iqaluit Radio
+2.58,CAN VFF Iqaluit Radio
+2.58,CAN VFF Iqaluit Radio
+2.58,CAN VFF Iqaluit Radio
+2.58,CAN VFF Iqaluit Radio
+2.58,CAN VFF Iqaluit Radio
+2.58,CAN VOJ Port aux Basques NL
+2.58,CAN VOK Labrador Coastguard
+2.58,CAN VOK Labrador Coastguard
+2.58,CAN VOK Labrador Coastguard
+2.6,CAN VCF Les Escoumins QC
+2.6,CAN VCF Les Escoumins QC
+2.6,CAN VCF Les Escoumins QC
+2.6,CAN VCF Les Escoumins QC
+2.6,CAN VCF Les Escoumins QC
+2.6,CAN VCF Les Escoumins QC
+2.6,CAN VCP Placentia NL
+2.6,CAN VCP Placentia NL
+2.6,CAN VCP Placentia NL
+2.6,CAN VCP Placentia NL
+2.6,CAN VCP Placentia NL
+2.6,CAN VCP Placentia NL
+2.6,CAN VCP Placentia NL
+2.6,CAN VCP Placentia NL
+2.6,CAN VCP Placentia NL
+2.6,CAN VCP Placentia NL
+2.6,CAN VCP Placentia NL
+2.6,CAN VCP Placentia NL
+2.6,CAN VOJ Port aux Basques NL
+2.6,CAN VOJ Port aux Basques NL
+2.6,CAN VOJ Port aux Basques NL
+2.6,CAN VOJ Port aux Basques NL
+2.6,CAN VOJ Port aux Basques NL
+2.6,CAN VOJ Port aux Basques NL
+2.6,CAN VOK Labrador Coastguard
+2.6,CAN VOK Labrador Coastguard
+2.6,CAN VOK Labrador Coastguard
+2.6,CAN VOK Labrador Coastguard
+2.6,CAN VOK Labrador Coastguard
+2.6,CAN VOK Labrador Coastguard
+2.6,CAN VOK Labrador Coastguard
+2.6,CAN VOK Labrador Coastguard
+2.6,CAN VOK Labrador Coastguard
+2.6,CAN VOK Labrador Coastguard
+2.6,CAN VOK Labrador Coastguard
+2.6,CAN VOK Labrador Coastguard
+2.6,CAN VOK Labrador Coastguard
+2.6,CAN VOK Labrador Coastguard
+2.6,CAN VOK Labrador Coastguard
+2.6,CAN VOK Labrador Coastguard
+2.6,CAN VOK Labrador Coastguard
+2.6,CAN VOK Labrador Coastguard
+2.63,AUS VMC Charleville Met Fax
+2.63,AUS VMC Charleville Met Fax
+2.63,AUS VMC Charleville Met Fax
+2.63,GRL OYR Aasiaat Radio
+2.63,GRL OYR Aasiaat Radio
+2.63,GRL OYR Aasiaat Radio
+2.63,GRL OYR Aasiaat Radio
+2.63,GRL OYR Aasiaat Radio
+2.63,GRL OYR Aasiaat Radio
+2.63,GRL OYR Aasiaat Radio
+2.63,GRL OYR Aasiaat Radio
+2.68,ISR 4XZ Israeli Navy Haifa
+2.71,POL SPL Polish Rescue R.
+2.71,POL SPL Polish Rescue R.
+2.71,POL SPL Polish Rescue R.
+2.71,POL SPL Polish Rescue R.
+2.71,POL SPL Polish Rescue R.
+2.71,POL SPL Polish Rescue R.
+2.71,POL SPL Polish Rescue R.
+2.71,POL SPL Polish Rescue R.
+2.71,POL SPL Polish Rescue R.
+2.74,CHL CBA Antofagasta Radio
+2.74,CHL CBA Antofagasta Radio
+2.74,CHL CBM Magellanes Radio
+2.74,CHL CBM Magellanes Radio
+2.74,CHL CBP Puerto Montt R.
+2.74,CHL CBP Puerto Montt R.
+2.74,CHL CBT Talcahuano Radio
+2.74,CHL CBT Talcahuano Radio
+2.74,CHL CBV Valparaso Radio
+2.74,CHL CBV Valparaso Radio
+2.74,CHL CBY Isla de Pascua R.
+2.74,CHL CBY Isla de Pascua R.
+2.75,CAN VCF Les Escoumins QC
+2.75,CAN VCF Les Escoumins QC
+2.75,CAN VCF Les Escoumins QC
+2.75,CAN VCF Les Escoumins QC
+2.75,CAN VCF Les Escoumins QC
+2.75,CAN VCF Les Escoumins QC
+2.75,CAN VCO Sydney Radio NS
+2.75,CAN VCO Sydney Radio NS
+2.75,CAN VCO Sydney Radio NS
+2.75,CAN VCO Sydney Radio NS
+2.75,CAN VCS Halifax Radio
+2.75,CAN VCS Halifax Radio
+2.75,CAN VCS Halifax Radio
+2.75,CAN VCS Halifax Radio
+2.75,CAN VCS Halifax Radio
+2.75,CAN VCS Halifax Radio
+2.75,CAN VCS Halifax Radio
+2.75,CAN VCS Halifax Radio
+2.75,CHN XSV Tianjin Radio
+2.75,HOL PFC Navy Den Helder
+2.76,BEL OSU Oostende Radio
+2.76,BEL OSU Oostende Radio
+2.76,BEL OSU Oostende Radio
+2.76,BEL OSU Oostende Radio
+2.76,BEL OSU Oostende Radio
+2.76,BEL OSU Oostende Radio
+2.76,BEL OSU Oostende Radio
+2.76,BEL OSU Oostende Radio
+2.76,BEL OSU Oostende Radio
+3.12,GRL OYR Aasiaat Radio
+3.12,GRL OYR Aasiaat Radio
+3.12,GRL OYR Aasiaat Radio
+3.12,GRL OYR Aasiaat Radio
+3.12,GRL OYR Aasiaat Radio
+3.12,GRL OYR Aasiaat Radio
+3.12,GRL OYR Aasiaat Radio
+3.12,GRL OYR Aasiaat Radio
+3.12,GRL OYR Aasiaat Radio
+3.12,GRL OYR Aasiaat Radio
+3.12,GRL OYR Aasiaat Radio
+3.12,GRL OYR Aasiaat Radio
+3.12,GRL OYR Aasiaat Radio
+3.21,KRE KCBS DIGITAL
+3.25,KRE KCBS Pyongyang
+3.28,GRL OYR Aasiaat Radio
+3.28,GRL OYR Aasiaat Radio
+3.28,GRL OYR Aasiaat Radio
+3.28,GRL OYR Aasiaat Radio
+3.28,GRL OYR Aasiaat Radio
+3.28,GRL OYR Aasiaat Radio
+3.28,GRL OYR Aasiaat Radio
+3.28,GRL OYR Aasiaat Radio
+3.28,GRL OYR Aasiaat Radio
+3.28,GRL OYR Aasiaat Radio
+3.28,GRL OYR Aasiaat Radio
+3.28,GRL OYR Aasiaat Radio
+3.28,GRL OYR Aasiaat Radio
+3.28,GRL OYR Aasiaat Radio
+3.28,GRL OYR Aasiaat Radio
+3.28,GRL OYR Aasiaat Radio
+3.28,GRL OYR Aasiaat Radio
+3.28,GRL OYR Aasiaat Radio
+3.28,GRL OYR Aasiaat Radio
+3.28,GRL OYR Aasiaat Radio
+3.28,GRL OYR Aasiaat Radio
+3.28,GRL OYR Aasiaat Radio
+3.28,GRL OYR Aasiaat Radio
+3.28,GRL OYR Aasiaat Radio
+3.28,GRL OYR Aasiaat Radio
+3.28,GRL OYR Aasiaat Radio
+3.33,CAN CHU Ottawa
+3.58,KOR HLL Seoul Meteo Fax
+3.59,CZE OK0EU Beacon D
+3.59,CZE OK0EU Beacon H
+3.59,CZE OK0EU Beacon M
+3.59,CZE OK0EU Beacon R
+3.59,CZE OK0EU Beacon U
+3.74,BUL LZW Varna Radio
+3.74,BUL LZW Varna Radio
+3.74,BUL LZW Varna Radio
+3.9,CHN PBS Hulun Buir
+3.9,CHN PBS Hulun Buir
+3.96,KOR KBS World Radio
+3.96,KRE KCBS Pyongyang
+3.98,CHN CNR 2 China Business R.
+3.99,CHN PBS Gannan
+3.99,CHN PBS Gannan
+4.0,EQA HCJB Voice of Andes
+4.0,EQA HCJB Voice of Andes
+4.0,EQA HCJB Voice of Andes
+4.0,EQA HCJB Voice of Andes
+4.0,USA NSS US Navy
+4.04,USA WCY Marine Weather Ctr
+4.04,USA WCY Marine Weather Ctr
+4.12,CAN VAJ Prince Rupert Radio
+4.12,CAN VAJ Prince Rupert Radio
+4.12,CAN VFF Iqaluit Radio
+4.13,ARG L3A Comodoro Rivadavia
+4.15,CHL CBM Magellanes Radio
+4.15,CHL CBM Magellanes Radio
+4.15,CHL CBP Puerto Montt R.
+4.15,CHL CBP Puerto Montt R.
+4.15,NZL ZLM Taupo Maritime R.
+4.15,NZL ZLM Taupo Maritime R.
+4.15,NZL ZLM Taupo Maritime R.
+4.15,NZL ZLM Taupo Maritime R.
+4.15,NZL ZLM Taupo Maritime R.
+4.15,NZL ZLM Taupo Maritime R.
+4.15,NZL ZLM Taupo Maritime R.
+4.15,ARG L3A Comodoro Rivadavia
+4.15,ARG L3A Comodoro Rivadavia
+4.15,ARG L3A Comodoro Rivadavia
+4.15,ARG L3A Comodoro Rivadavia
+4.15,AUS VMW Wiluna WA
+4.16,CHN XSQ Guangzhou Meteo Fax
+4.16,CHN XSQ Guangzhou Meteo Fax
+4.17,CHN XSG Shanghai Radio Fax
+4.17,CHN XSG Shanghai Radio Fax
+4.17,CHN XSG Shanghai Radio Fax
+4.17,CHN XSG Shanghai Radio Fax
+4.17,CHN XSG Shanghai Radio Fax
+4.18,CAN VFF Iqaluit Radio
+4.21,CAN VFF Iqaluit Radio
+4.21,TUR TAH Turk Radio Istanbul
+4.21,CHN XSQ Guangzhou Radio
+4.21,CHN XSV Tianjin Radio
+4.21,RUS UGC St.Peterburg Radio
+4.21,RUS UGC St.Peterburg Wx Fax
+4.22,CHN XSG Shanghai Radio
+4.22,TUR TAH Turk Radio Istanbul
+4.22,CHN XSQ Guangzhou Radio
+4.23,CHL CBV Valparaiso Met Fax
+4.23,CHL CBV Valparaiso Met Fax
+4.23,CHL CBV Valparaiso Met Fax
+4.23,CHL CBV Valparaiso Met Fax
+4.24,USA NMF Fax Boston MA
+4.24,USA NMF Fax Boston MA
+4.26,CHN XSG Shanghai Radio
+4.27,CAN CFH Halifax Radio
+4.28,HOL PBB Navy Den Helder
+4.3,ALS NOJ Fax Kodiak
+4.3,ALS NOJ Fax Kodiak
+4.3,ALS NOJ Fax Kodiak
+4.3,ALS NOJ Fax Kodiak
+4.32,USA NMG USCG New Orleans
+4.32,USA NMG USCG New Orleans
+4.32,USA NMG USCG New Orleans
+4.32,USA NMG USCG New Orleans
+4.32,USA NMG USCG New Orleans
+4.32,USA NMG USCG New Orleans
+4.32,USA NMG USCG New Orleans
+4.32,USA NMG USCG New Orleans
+4.32,USA NMG Fax New Orleans
+4.32,USA NMG Fax New Orleans
+4.32,USA NMG Fax New Orleans
+4.32,USA NMG Fax New Orleans
+4.33,ISR 4XZ Israeli Navy Haifa
+4.35,USA NMC Fax Pt Reyes CA
+4.35,USA NMC Fax Pt Reyes CA
+4.35,USA NMC Fax Pt Reyes CA
+4.35,USA NMC Fax Pt Reyes CA
+4.36,CHL CBA Antofagasta Radio
+4.36,CHL CBA Antofagasta Radio
+4.36,CHL CBT Talcahuano Radio
+4.36,CHL CBT Talcahuano Radio
+4.36,CHL CBV Valparaso Radio
+4.36,CHL CBV Valparaso Radio
+4.36,CHL CBY Isla de Pascua R.
+4.36,CHL CBY Isla de Pascua R.
+4.36,CAN VFF Iqaluit Radio
+4.36,CAN VFF Iqaluit Radio
+4.36,CAN VFF Iqaluit Radio
+4.36,CAN VFF Iqaluit Radio
+4.36,CAN VFF Iqaluit Radio
+4.36,CAN VFF Iqaluit Radio
+4.36,CAN VFF Iqaluit Radio
+4.36,CAN VFF Iqaluit Radio
+4.36,CAN VFF Iqaluit Radio
+4.36,CAN VFF Iqaluit Radio
+4.36,CAN VFF Iqaluit Radio
+4.36,CAN VFF Iqaluit Radio
+4.36,CAN VFF Iqaluit Radio
+4.36,MCO 3AC Radio Monaco
+4.36,MCO 3AC Radio Monaco
+4.36,MCO 3AC Radio Monaco
+4.36,MCO 3AC Radio Monaco
+4.38,AFS ZSC Cape Town Radio
+4.38,CAN VOK Labrador Coastguard
+4.38,CAN VOK Labrador Coastguard
+4.38,GRL OYR Aasiaat Radio
+4.38,GRL OYR Aasiaat Radio
+4.38,GRL OYR Aasiaat Radio
+4.38,GRL OYR Aasiaat Radio
+4.38,GRL OYR Aasiaat Radio
+4.38,GRL OYR Aasiaat Radio
+4.38,GRL OYR Aasiaat Radio
+4.38,GRL OYR Aasiaat Radio
+4.38,GRL OYR Aasiaat Radio
+4.38,GRL OYR Aasiaat Radio
+4.38,GRL OYR Aasiaat Radio
+4.38,GRL OYR Aasiaat Radio
+4.38,CHN XSQ Guangzhou Radio
+4.39,TUR TAH Turk Radio Istanbul
+4.4,CHN XSV Tianjin Radio
+4.4,CHN XSV Tianjin Radio
+4.41,TUR TAH Turk Radio Istanbul
+4.41,TUR TAH Turk Radio Istanbul
+4.41,TUR TAH Turk Radio Istanbul
+4.41,TUR TAH Turk Radio Istanbul
+4.41,TUR TAH Turk Radio Istanbul
+4.42,CAN VCO Sydney Meteo Fax
+4.42,CAN VCO Sydney Meteo Fax
+4.43,AUS VMC Charleville QL
+4.43,USA NMC USCG Point Reyes
+4.43,USA NMC USCG Point Reyes
+4.43,USA NMN USCG Chesapeake
+4.43,USA NMN USCG Chesapeake
+4.43,USA NMN USCG Chesapeake
+4.43,RUS RIT Northern Fleet
+4.48,GRC SWA18 Athens Meteo Fax
+4.54,USA WRPW597 CODAR (IDs x3)
+4.56,TUR TAH Turk Radio Istanbul
+4.72,USA US Air Force Messages
+4.75,USA WRPW597 CODAR (IDs x3)
+4.78,USA WRPV785 CODAR (CW IDs)
+4.79,CHN CNR1 Jammer/Firedrake
+4.81,RUS RIT Northern Fleet
+4.81,USA WRPD292 CODAR (CW IDs)
+4.97,RUS RIT Northern Fleet
+4.99,USA NSS US Navy
+4.99,CHN PBS Hunan
+4.99,CHN PBS Hunan
+4.99,CHN PBS Hunan
+5.0,RUS RWM Moscow
+5.0,CHN BPM Xian
+5.0,HWA WWVH Hawaii (f.ann.)
+5.0,KOR HLA Taedok
+5.0,USA WWV Colorado (m.ann.)
+5.01,RUS RJD59 Russian Navy
+5.01,USA WRMI Radio Miami Int.
+5.01,USA WRMI Radio Miami Int.
+5.05,USA WRMI Radio Miami Int.
+5.1,AUS VMC Charleville Met Fax
+5.1,AUS VMC Charleville Met Fax
+5.1,AUS VMC Charleville Met Fax
+5.1,AUS VMC Charleville Met Fax
+5.1,AUS VMC Charleville Met Fax
+5.1,AUS VMC Charleville Met Fax
+5.1,AUS VMC Charleville Met Fax
+5.1,AUS VMC Charleville Met Fax
+5.1,AUS VMC Charleville Met Fax
+5.34,PTR NAU US Navy
+5.53,CHN BAF Beijing Meteo Fax
+5.72,PTR NAU US Navy
+5.75,RUS RIT Northern Fleet
+5.75,AUS VMW Wiluna Met Fax
+5.75,AUS VMW Wiluna Met Fax
+5.75,AUS VMW Wiluna Met Fax
+5.8,USA WRMI Radio Miami Int.
+5.8,CAN VFF Iqaluit Radio
+5.8,CAN VFF Iqaluit Radio
+5.8,CAN VFF Iqaluit Radio
+5.85,USA WRMI Radio Miami Int.
+5.85,USA WRMI Radio Miami Int.
+5.85,USA WRMI Radio Miami Int.
+5.86,KOR HLL Seoul Meteo
+5.92,EQA HCJB Voice of Andes
+5.92,EQA HCJB Voice of Andes
+5.92,EQA HCJB Voice of Andes
+5.92,EQA HCJB Voice of Andes
+5.92,CHN CNR5 Cross-Strait Radio
+5.92,CHN CNR5 Cross-Strait Radio
+5.92,CHN CNR5 Cross-Strait Radio
+5.95,USA WRMI Radio Miami Int.
+5.96,CHN PBS Xinjiang
+5.96,CHN PBS Xinjiang
+5.96,CHN PBS Xinjiang
+5.97,CHN PBS Gannan
+5.97,CHN PBS Gannan
+5.97,CHN PBS Gannan
+5.99,CHN PBS Qinghai
+5.99,CHN PBS Qinghai
+5.99,IRN IRIB Voice of I.R.Iran
+6.0,CHN CNR 2 China Business R.
+6.0,IRN IRIB Voice of I.R.Iran
+6.01,CHN PBS Xinjiang
+6.01,CHN PBS Xinjiang
+6.01,KOR KBS Hanminjok
+6.01,KOR KBS Hanminjok
+6.03,CHN CNR1 DIGITAL
+6.03,CHN CNR1 DIGITAL
+6.03,CHN CNR 2 China Business R.
+6.04,CHN CNR 2 China Business R.
+6.04,CHN PBS Nei Menggu
+6.04,CHN PBS Nei Menggu
+6.04,CHN PBS Nei Menggu
+6.05,EQA HCJB Voice of Andes
+6.05,EQA HCJB Voice of Andes
+6.05,EQA HCJB Voice of Andes
+6.05,EQA HCJB Voice of Andes
+6.05,EQA HCJB Voice of Andes
+6.05,EQA HCJB Voice of Andes
+6.05,EQA HCJB Voice of Andes
+6.05,EQA HCJB Voice of Andes
+6.05,EQA HCJB Voice of Andes
+6.05,EQA HCJB Voice of Andes
+6.05,LBR ELWA Radio
+6.05,LBR ELWA Radio
+6.07,CHN CNR 2 China Business R.
+6.07,CHN CNR 2 China Business R.
+6.08,CHN PBS Hulun Buir
+6.08,CHN PBS Hulun Buir
+6.09,CHN CNR 2 China Business R.
+6.09,CHN CNR 2 China Business R.
+6.09,KOR KBS World Radio
+6.09,KOR KBS World Radio
+6.09,KOR KBS World Radio
+6.1,KRE KCBS Pyongyang
+6.12,CHN PBS Xinjiang
+6.12,CHN PBS Xinjiang
+6.12,CHN PBS Xinjiang
+6.12,CHN PBS Xinjiang
+6.14,KRE KCBS DIGITAL
+6.14,CHN PBS Qinghai
+6.14,CHN PBS Qinghai
+6.14,KOR KBS World Radio
+6.15,CHN CNR1 Jammer/Firedrake
+6.16,CHN CNR 2 China Business R.
+6.16,KOR KBS World Radio
+6.16,KOR KBS World Radio
+6.16,USA WBCQ World's LastChance
+6.18,CHN CNR1 DIGITAL
+6.18,CHN CNR1 Jammer/Firedrake
+6.19,CHN CNR 2 China Business R.
+6.19,CHN PBS Xinjiang
+6.19,CHN PBS Xinjiang
+6.21,CAN VFF Iqaluit Radio
+6.22,CAN VFF Iqaluit Radio
+6.22,CAN VFF Iqaluit Radio
+6.22,CAN VFF Iqaluit Radio
+6.22,CAN VFF Iqaluit Radio
+6.22,CAN VFF Iqaluit Radio
+6.22,CAN VFF Iqaluit Radio
+6.22,CAN VFF Iqaluit Radio
+6.22,NZL ZLM Taupo Maritime R.
+6.22,NZL ZLM Taupo Maritime R.
+6.22,NZL ZLM Taupo Maritime R.
+6.22,NZL ZLM Taupo Maritime R.
+6.22,NZL ZLM Taupo Maritime R.
+6.22,NZL ZLM Taupo Maritime R.
+6.22,NZL ZLM Taupo Maritime R.
+6.22,NZL ZLM Taupo Maritime R.
+6.22,NZL ZLM Taupo Maritime R.
+6.22,NZL ZLM Taupo Maritime R.
+6.22,NZL ZLM Taupo Maritime R.
+6.23,AUS VMW Wiluna WA
+6.23,CHN CNR1 Jammer/Firedrake
+6.27,CAN VFF Iqaluit Radio
+6.28,CHN CNR1 Jammer/Firedrake
+6.31,CAN VFF Iqaluit Radio
+6.31,USA NMF NAVTEX Boston MA
+6.32,CHN XSV Tianjin Radio
+6.32,CHN XSV Tianjin Radio
+6.32,GRC SVO Olimpia Radio
+6.33,CHN XSG Shanghai Radio
+6.33,RUS RBW Murmansk Meteo Fax
+6.33,RUS RBW Murmansk Meteo Fax
+6.33,RUS RBW Murmansk Meteo Fax
+6.33,RUS RBW Murmansk Meteo Fax
+6.33,RUS RBW Murmansk Meteo Fax
+6.34,USA NMF Fax Boston MA
+6.34,USA NMF Fax Boston MA
+6.34,USA NMF Fax Boston MA
+6.34,USA NMF Fax Boston MA
+6.36,HOL PBB Navy Den Helder
+6.37,CHN CNR1 Jammer/Firedrake
+6.39,PAK AQP Navy Karachi
+6.48,CHN XSV Tianjin Radio
+6.49,USA NSS US Navy
+6.5,CAN CFH Halifax Radio
+6.5,CAN CFH Halifax Radio
+6.5,ALS NOJ USCG Kodiak
+6.5,ALS NOJ USCG Kodiak
+6.5,CAN VFF Iqaluit Radio
+6.5,CAN VFF Iqaluit Radio
+6.5,CAN VFF Iqaluit Radio
+6.5,GUM NRV USCG Guam
+6.5,GUM NRV USCG Guam
+6.5,HWA NMO USCG Honolulu
+6.5,HWA NMO USCG Honolulu
+6.5,USA NMN USCG Chesapeake
+6.5,USA NMN USCG Chesapeake
+6.5,USA NMN USCG Chesapeake
+6.5,USA NMN USCG Chesapeake
+6.5,USA NMN USCG Chesapeake
+6.5,USA NMN USCG Chesapeake
+6.5,USA NMN USCG Chesapeake
+6.51,AUS VMC Charleville QL
+6.51,CAN VFF Iqaluit Radio
+6.51,CAN VFF Iqaluit Radio
+6.51,CAN VFF Iqaluit Radio
+6.51,CHN XSQ Guangzhou Radio
+6.51,TUR TAH Turk Radio Istanbul
+6.51,CAN VOK Labrador Coastguard
+6.52,GRL OYR Aasiaat Radio
+6.52,GRL OYR Aasiaat Radio
+6.52,GRL OYR Aasiaat Radio
+6.52,GRL OYR Aasiaat Radio
+6.52,GRL OYR Aasiaat Radio
+6.52,GRL OYR Aasiaat Radio
+6.52,GRL OYR Aasiaat Radio
+6.52,GRL OYR Aasiaat Radio
+6.52,GRL OYR Aasiaat Radio
+6.52,GRL OYR Aasiaat Radio
+6.52,GRL OYR Aasiaat Radio
+6.52,GRL OYR Aasiaat Radio
+6.61,ISR 4XZ Israeli Navy Haifa
+6.65,HND COCESNA Cenamer Control
+6.68,RUS AF Transport Davlenie
+6.68,RUS AF Transport Kasta
+6.68,RUS AF Transport Klarnetist
+6.68,RUS AF Transport Korsar
+6.68,RUS AF Transport Magnetron
+6.68,RUS AF Transport Polis
+6.68,RUS AF Transport Proselok
+6.83,PTR NAU US Navy
+6.85,CHN CNR1 Jammer/Firedrake
+6.9,CHN CNR1 Jammer/Firedrake
+6.92,CAN VCO Sydney Meteo Fax
+6.92,CAN VCO Sydney Meteo Fax
+6.92,CHL RCW Compaa Worldwide
+7.04,CZE OK0EU Beacon D
+7.04,CZE OK0EU Beacon M
+7.04,CZE OK0EU Beacon U
+7.04,CZE OK0EPB Pendulum
+7.21,CHN PBS Xinjiang
+7.21,CHN PBS Xinjiang
+7.21,INS RRI Pro 3 Tiga
+7.21,CHN PBS Yunnan Minority Sce
+7.21,CHN PBS Yunnan Minority Sce
+7.21,CHN PBS Yunnan Minority Sce
+7.21,CHN PBS Yunnan Minority Sce
+7.21,CHN PBS Yunnan Minority Sce
+7.21,CHN PBS Yunnan Minority Sce
+7.21,CHN PBS Yunnan Minority Sce
+7.21,CHN PBS Yunnan Minority Sce
+7.21,CHN PBS Yunnan Minority Sce
+7.21,CHN PBS Yunnan Minority Sce
+7.21,CHN PBS Yunnan Minority Sce
+7.21,CHN PBS Yunnan Minority Sce
+7.21,CHN PBS Yunnan Minority Sce
+7.21,CHN PBS Yunnan Minority Sce
+7.21,KOR KBS World Radio
+7.22,CHN CNR 2 China Business R.
+7.22,CHN CNR 2 China Business R.
+7.23,CHN PBS Xinjiang
+7.23,CHN PBS Xinjiang
+7.23,CHN PBS Xinjiang
+7.25,CHN CNR 2 China Business R.
+7.25,CHN CNR 2 China Business R.
+7.25,IRN IRIB Voice of I.R.Iran
+7.25,IRN IRIB Voice of I.R.Iran
+7.25,IRN IRIB Voice of I.R.Iran
+7.26,CHN PBS Xinjiang
+7.26,CHN PBS Xinjiang
+7.26,CHN PBS Xinjiang
+7.26,CHN PBS Xinjiang
+7.26,CHN PBS Xinjiang
+7.26,CHN CNR 2 China Business R.
+7.26,CHN CNR 2 China Business R.
+7.27,CHN CNR1 Jammer/Firedrake
+7.27,CHN CNR1 Jammer/Firedrake
+7.27,CHN PBS Nei Menggu
+7.27,CHN PBS Nei Menggu
+7.27,CHN PBS Nei Menggu
+7.28,CHN PBS Xinjiang
+7.28,CHN PBS Xinjiang
+7.28,CHN PBS Xinjiang
+7.28,CHN PBS Xinjiang
+7.28,CHN PBS Xinjiang
+7.28,CHN PBS Xinjiang
+7.28,KOR KBS World Radio
+7.28,CHN CNR1 Jammer/Firedrake
+7.28,IRN IRIB Voice of I.R.Iran
+7.29,INS RRI Nabire
+7.3,AUS HCJB R.Akhbar Mufriha
+7.3,CHN CNR1 Jammer/Firedrake
+7.3,IRN IRIB Voice of I.R.Iran
+7.31,CHN CNR1 Jammer/Firedrake
+7.31,CHN PBS Xinjiang
+7.31,CHN PBS Xinjiang
+7.32,CHN CNR 2 China Business R.
+7.32,CHN CNR 2 China Business R.
+7.33,IRN IRIB Voice of I.R.Iran
+7.33,IRN IRIB Voice of I.R.Iran
+7.33,CHN CNR 2 China Business R.
+7.33,CHN CNR 2 China Business R.
+7.34,CHN PBS Xinjiang
+7.34,CHN PBS Xinjiang
+7.34,CHN PBS Xinjiang
+7.34,CHN PBS Xinjiang
+7.34,CHN CNR 7 Greater Bay Area
+7.34,CHN CNR 7 Greater Bay Area
+7.36,ALS KNLS New Life Station
+7.36,CHN CNR 2 China Business R.
+7.37,EQA HCJB Voice of Andes
+7.37,CHN CNR 2 China Business R.
+7.37,CHN CNR 2 China Business R.
+7.38,CHN CNR 2 China Business R.
+7.38,CHN CNR5 Cross-Strait Radio
+7.38,CHN CNR5 Cross-Strait Radio
+7.38,CHN CNR5 Cross-Strait Radio
+7.39,ALS KNLS New Life Station
+7.39,ALS KNLS New Life Station
+7.4,THA HSW64 Bangkok Meteo Fax
+7.4,THA HSW64 Bangkok Meteo Fax
+7.4,THA HSW64 Bangkok Meteo Fax
+7.4,THA HSW64 Bangkok Meteo Fax
+7.4,THA HSW64 Bangkok Meteo Fax
+7.4,THA HSW64 Bangkok Meteo Fax
+7.4,THA HSW64 Bangkok Meteo Fax
+7.4,THA HSW64 Bangkok Meteo Fax
+7.4,THA HSW64 Bangkok Meteo Fax
+7.4,THA HSW64 Bangkok Meteo Fax
+7.4,THA HSW64 Bangkok Meteo Fax
+7.4,THA HSW64 Bangkok Meteo Fax
+7.4,THA HSW64 Bangkok Meteo Fax
+7.4,THA HSW64 Bangkok Meteo Fax
+7.4,THA HSW64 Bangkok Meteo Fax
+7.4,THA HSW64 Bangkok Meteo Fax
+7.4,THA HSW64 Bangkok Meteo Fax
+7.4,THA HSW64 Bangkok Meteo Fax
+7.4,THA HSW64 Bangkok Meteo Fax
+7.4,THA HSW64 Bangkok Meteo Fax
+7.4,THA HSW64 Bangkok Meteo Fax
+7.4,THA HSW64 Bangkok Meteo Fax
+7.4,THA HSW64 Bangkok Meteo Fax
+7.4,THA HSW64 Bangkok Meteo Fax
+7.4,THA HSW64 Bangkok Meteo Fax
+7.42,CHN PBS Nei Menggu
+7.42,CHN PBS Nei Menggu
+7.42,CHN CNR 2 China Business R.
+7.42,NZL RNZ Pacific
+7.42,NZL RNZ Pacific
+7.43,CHN CNR1 Jammer/Firedrake
+7.43,KOR HLL Seoul Meteo Fax
+7.43,KOR HLL Seoul Meteo Fax
+7.44,NZL RNZ Pacific
+7.46,PTR NAU US Navy
+7.46,CHN CNR1 Jammer/Firedrake
+7.47,CHN CNR1 Jammer/Firedrake
+7.47,CHN CNR1 Jammer/Firedrake
+7.49,CHN CNR1 Jammer/Firedrake
+7.49,CHN CNR1 Jammer/Firedrake
+7.49,USA WBCQ The Planet
+7.5,CHN CNR1 Jammer/Firedrake
+7.5,CHN CNR1 Jammer/Firedrake
+7.5,USA WRNO New Orleans
+7.5,USA WRNO New Orleans
+7.54,AUS VMW Wiluna Met Fax
+7.54,AUS VMW Wiluna Met Fax
+7.54,AUS VMW Wiluna Met Fax
+7.54,AUS VMW Wiluna Met Fax
+7.54,AUS VMW Wiluna Met Fax
+7.54,AUS VMW Wiluna Met Fax
+7.54,AUS VMW Wiluna Met Fax
+7.54,AUS VMW Wiluna Met Fax
+7.54,CHL RCW Compaa Worldwide
+7.57,USA WRMI Radio Miami Int.
+7.6,CHN CNR1 Jammer/Firedrake
+7.6,RUS RIT Northern Fleet
+7.73,CHN CNR1 Jammer/Firedrake
+7.73,USA WRMI Radio Miami Int.
+7.78,USA WRMI Radio Miami Int.
+7.83,PTR NAU US Navy
+7.85,CAN CHU Ottawa
+8.01,RUS RJD59 Russian Navy
+8.11,GRC SWA18 Athens Meteo Fax
+8.11,AUS VMW Wiluna WA
+8.11,AUS VMW Wiluna WA
+8.12,CHN BAF Beijing Meteo Fax
+8.14,USA WCY Marine Weather Ctr
+8.14,USA WCY Marine Weather Ctr
+8.14,USA WCY Marine Weather Ctr
+8.14,USA WCY Marine Weather Ctr
+8.14,USA WCY Marine Weather Ctr
+8.14,USA WCY Marine Weather Ctr
+8.18,AUS VMC Charleville QL
+8.18,AUS VMC Charleville QL
+8.29,CAN VFF Iqaluit Radio
+8.29,ARG L3A Comodoro Rivadavia
+8.29,ARG L3A Comodoro Rivadavia
+8.29,ARG L3A Comodoro Rivadavia
+8.29,ARG L3A Comodoro Rivadavia
+8.3,NZL ZLM Taupo Maritime R.
+8.3,NZL ZLM Taupo Maritime R.
+8.3,NZL ZLM Taupo Maritime R.
+8.3,NZL ZLM Taupo Maritime R.
+8.3,CHN XSG Shanghai Radio Fax
+8.3,CHN XSG Shanghai Radio Fax
+8.3,CHN XSG Shanghai Radio Fax
+8.3,CHN XSG Shanghai Radio Fax
+8.3,CHN XSG Shanghai Radio Fax
+8.31,CHN XSQ Guangzhou Meteo Fax
+8.31,CHN XSQ Guangzhou Meteo Fax
+8.38,CAN VFF Iqaluit Radio
+8.42,CAN VFF Iqaluit Meteo
+8.42,CAN VFF Iqaluit Meteo
+8.42,CHN XSV Tianjin Radio
+8.42,CHN XSV Tianjin Radio
+8.42,CHN XSV Tianjin Radio
+8.42,GRC SVO Olimpia Radio
+8.43,CHN XSG Shanghai Radio
+8.43,CHN XSQ Guangzhou Radio
+8.43,TUR TAH Turk Radio Istanbul
+8.43,CHN XSG Shanghai Radio
+8.43,TUR TAH Turk Radio Istanbul
+8.44,CHN XSQ Guangzhou Radio
+8.44,HOL PBB Ny DenHelder
+8.44,RUS RBW Murmansk Meteo Fax
+8.44,RUS RBW Murmansk Meteo Fax
+8.44,RUS RBW Murmansk Meteo Fax
+8.44,RUS RBW Murmansk Meteo Fax
+8.44,RUS RBW Murmansk Meteo Fax
+8.46,ALS NOJ Fax Kodiak
+8.46,ALS NOJ Fax Kodiak
+8.46,ALS NOJ Fax Kodiak
+8.46,ALS NOJ Fax Kodiak
+8.48,KOR HLG Seoul Radio
+8.5,USA NMG USCG New Orleans
+8.5,USA NMG USCG New Orleans
+8.5,USA NMG USCG New Orleans
+8.5,USA NMG USCG New Orleans
+8.5,USA NMG USCG New Orleans
+8.5,USA NMG USCG New Orleans
+8.5,USA NMG USCG New Orleans
+8.5,USA NMG USCG New Orleans
+8.5,USA NMG Fax New Orleans
+8.5,USA NMG Fax New Orleans
+8.5,USA NMG Fax New Orleans
+8.5,USA NMG Fax New Orleans
+8.51,CHN XSQ Guangzhou Radio x30
+8.62,CHN XSV Tianjin Radio
+8.64,KOR HLW Seoul Radio
+8.68,CHL CBV Valparaiso Met Fax
+8.68,CHL CBV Valparaiso Met Fax
+8.68,CHL CBV Valparaiso Met Fax
+8.68,CHL CBV Valparaiso Met Fax
+8.68,USA NMC Fax Pt Reyes CA
+8.68,USA NMC Fax Pt Reyes CA
+8.68,USA NMC Fax Pt Reyes CA
+8.68,USA NMC Fax Pt Reyes CA
+8.68,USA NMC Fax Pt Reyes CA
+8.68,USA NMC Fax Pt Reyes CA
+8.68,USA NMC Fax Pt Reyes CA
+8.71,ARG L3A Comodoro Rivadavia
+8.73,MCO 3AC Radio Monaco
+8.73,MCO 3AC Radio Monaco
+8.73,MCO 3AC Radio Monaco
+8.73,MCO 3AC Radio Monaco
+8.73,MCO 3AC Radio Monaco
+8.74,AFS ZSC Cape Town Radio
+8.75,TUR TAH Turk Radio Istanbul
+8.75,TUR TAH Turk Radio Istanbul
+8.75,CAN VFF Iqaluit Radio
+8.75,CAN VFF Iqaluit Radio
+8.75,CAN VFF Iqaluit Radio
+8.76,CHN XSV Tianjin Radio
+8.76,CHN XSV Tianjin Radio
+8.76,HWA NMO USCG Honolulu
+8.76,HWA NMO USCG Honolulu
+8.76,HWA NMO USCG Honolulu
+8.76,HWA NMO USCG Honolulu
+8.76,USA NMC USCG Point Reyes
+8.76,USA NMC USCG Point Reyes
+8.76,USA NMC USCG Point Reyes
+8.76,USA NMC USCG Point Reyes
+8.76,USA NMN USCG Chesapeake
+8.76,USA NMN USCG Chesapeake
+8.76,USA NMN USCG Chesapeake
+8.76,USA NMN USCG Chesapeake
+8.76,USA NMN USCG Chesapeake
+8.76,USA NMN USCG Chesapeake
+8.76,USA NMN USCG Chesapeake
+8.76,USA NMN USCG Chesapeake
+8.78,GRC SVO Olimpia Radio
+8.78,GRC SVO Olimpia Radio
+8.78,CHN XSQ Guangzhou Radio
+8.79,USA WLO Mobile Radio
+8.79,CAN VFF Iqaluit Radio
+8.79,CAN VFF Iqaluit Radio
+8.79,CAN VFF Iqaluit Radio
+8.81,CHN XSG Shanghai Radio
+8.81,TUR TAH Turk Radio Istanbul
+8.81,TUR TAH Turk Radio Istanbul
+8.81,TUR TAH Turk Radio Istanbul
+8.81,TUR TAH Turk Radio Istanbul
+8.81,TUR TAH Turk Radio Istanbul
+8.81,TUR TAH Turk Radio Istanbul
+8.81,TUR TAH Turk Radio Istanbul
+8.85,RUS AF Transport Davlenie
+8.85,RUS AF Transport Kasta
+8.85,RUS AF Transport Klarnetist
+8.85,RUS AF Transport Korsar
+8.85,RUS AF Transport Magnetron
+8.85,RUS AF Transport Polis
+8.85,RUS AF Transport Proselok
+8.99,USA US Air Force Messages
+9.11,USA NMF Fax Boston MA
+9.11,USA NMF Fax Boston MA
+9.11,USA NMF Fax Boston MA
+9.11,USA NMF Fax Boston MA
+9.12,CHN CNR1 Jammer/Firedrake
+9.15,CHN CNR1 Jammer/Firedrake
+9.16,KOR HLL Seoul Meteo Fax
+9.16,KOR HLL Seoul Meteo Fax
+9.18,CHN CNR1 Jammer/Firedrake
+9.23,CHN CNR1 Jammer/Firedrake
+9.26,CHN CNR1 Jammer/Firedrake
+9.27,USA WINB                     E
+9.28,HKG FEBC i-Radio Liangyou
+9.28,CHN CNR1 Jammer/Firedrake
+9.3,CHN CNR1 Jammer/Firedrake
+9.32,CHN CNR1 Jammer/Firedrake
+9.32,GUM KTWR Trans World Radio
+9.32,GUM KTWR Trans World Radio
+9.32,GUM KTWR Trans World Radio
+9.33,CLA CMI Voice of Wilderness
+9.33,USA WBCQ World's LastChance
+9.33,USA WBCQ World's LastChance
+9.33,USA WBCQ World's LastChance
+9.33,USA WBCQ World's LastChance
+9.34,CLA CMI Voice of Wilderness
+9.34,CHN CNR1 Jammer/Firedrake
+9.39,USA WRMI Radio Miami Int.
+9.39,USA WRMI Radio Miami Int.
+9.4,HKG FEBC Radio Liangyou
+9.4,HKG FEBC Radio Liangyou
+9.4,HKG FEBC Radio Liangyou 1
+9.4,HKG FEBC Radio Liangyou 3
+9.46,USA WRMI Radio Miami Int.
+9.47,CHN PBS Xinjiang
+9.47,CHN PBS Xinjiang
+9.49,CHN CNR1 Jammer/Firedrake
+9.51,CHN PBS Xinjiang
+9.52,CHN CNR 2 China Business R.
+9.52,CHN CNR 2 China Business R.
+9.52,KOR KBS World Radio
+9.52,KOR KBS World Radio
+9.52,CHN PBS Nei Menggu
+9.52,CHN PBS Nei Menggu
+9.54,CHN CNR1 Jammer/Firedrake
+9.54,PHL FEBC Manila
+9.54,ALS KNLS New Life Station
+9.55,CHN CNR1 Jammer/Firedrake
+9.56,CHN CNR1 Jammer/Firedrake
+9.56,CHN PBS Xinjiang
+9.56,CHN PBS Xinjiang
+9.57,CHN CNR 2 China Business R.
+9.57,CHN CNR 2 China Business R.
+9.57,CHN CNR 2 China Business R.
+9.57,KOR KBS World Radio
+9.57,KOR KBS World Radio
+9.57,KOR KBS World Radio
+9.57,KOR KBS World Radio
+9.57,KOR KBS World Radio
+9.57,KOR KBS World Radio
+9.58,ALS KNLS New Life Station
+9.58,ALS KNLS New Life Station
+9.58,ALS KNLS New Life Station
+9.58,ALS KNLS New Life Station
+9.58,ALS KNLS New Life Station
+9.6,CHN CNR1 Jammer/Firedrake
+9.6,CHN PBS Xinjiang
+9.6,CHN PBS Xinjiang
+9.6,CHN PBS Xinjiang
+9.61,CHN CNR1 Jammer/Firedrake
+9.62,CHN CNR 2 China Business R.
+9.62,CHN CNR 2 China Business R.
+9.62,CHN CNR 2 China Business R.
+9.62,IND AIR Akashvani Ext.Sce
+9.62,IND AIR Akashvani Ext.Sce
+9.62,IND AIR Akashvani Ext.Sce
+9.63,CHN CNR1 Jammer/Firedrake
+9.64,KOR KBS World Radio
+9.64,KOR KBS World Radio
+9.64,KOR KBS World Radio
+9.65,KOR KBS World Radio
+9.66,CHN CNR1 Jammer/Firedrake
+9.66,CHN CNR5 Cross-Strait Radio
+9.66,CHN CNR5 Cross-Strait Radio
+9.66,CHN CNR5 Cross-Strait Radio
+9.68,CHN CNR1 Jammer/Firedrake
+9.69,ALS KNLS New Life Station
+9.69,CHN CNR5 Cross-Strait Radio
+9.69,CHN CNR5 Cross-Strait Radio
+9.7,ALS KNLS New Life Station
+9.71,CHN PBS Xinjiang
+9.71,CHN PBS Xinjiang
+9.71,IRN IRIB Voice of I.R.Iran
+9.72,CHN CNR 2 China Business R.
+9.72,CHN CNR 2 China Business R.
+9.73,ALS KNLS New Life Station
+9.73,CHN CNR1 Jammer/Firedrake
+9.74,ALS KNLS New Life Station
+9.74,KOR KBS World Radio
+9.74,KOR KBS World Radio
+9.74,CHN CNR 7 Greater Bay Area
+9.74,CHN CNR 7 Greater Bay Area
+9.75,CHN PBS Nei Menggu
+9.75,CHN PBS Nei Menggu
+9.75,CHN PBS Nei Menggu
+9.76,CHN CNR 2 China Business R.
+9.76,CHN CNR 2 China Business R.
+9.76,MDG MWV La Voz Alegre
+9.76,ALS KNLS New Life Station
+9.77,CHN CNR1 Jammer/Firedrake
+9.77,IND AIR Akashvani Ext.Sce
+9.77,MDG MWV Palavra Alegre
+9.77,KOR KBS World Radio
+9.77,KOR KBS World Radio
+9.77,KOR KBS World Radio
+9.78,CHN CNR 2 China Business R.
+9.78,CHN CNR 2 China Business R.
+9.78,CHN PBS Qinghai
+9.78,CHN PBS Qinghai
+9.79,KOR KBS World Radio
+9.79,IRN IRIB Voice of I.R.Iran
+9.79,IRN IRIB Voice of I.R.Iran
+9.79,IRN IRIB Voice of I.R.Iran
+9.79,IND AIR Akashvani Ext.Sce
+9.79,IND AIR Akashvani Ext.Sce
+9.79,IRN IRIB Voice of I.R.Iran
+9.79,PHL FEBC Manila
+9.79,PHL FEBC Manila
+9.79,PHL FEBC Manila
+9.79,PHL FEBC Manila
+9.8,ALS KNLS New Life Station
+9.81,CHN CNR 2 China Business R.
+9.81,CHN CNR 2 China Business R.
+9.82,CHN CNR 2 China Business R.
+9.82,CHN CNR 2 China Business R.
+9.83,USA NSS US Navy
+9.84,CHN PBS Xinjiang
+9.84,CHN PBS Xinjiang
+9.84,IRN IRIB Voice of I.R.Iran
+9.85,MDG MWV New Life Station
+9.85,CHN CNR1 Jammer/Firedrake
+9.85,CHN PBS Qinghai
+9.85,CHN PBS Qinghai
+9.86,CHN CNR1 Jammer/Firedrake
+9.86,IND AIR Akashvani Ext.Sce
+9.86,IND AIR Akashvani Ext.Sce
+9.86,IND AIR Akashvani Ext.Sce
+9.86,IND AIR Akashvani Ext.Sce
+9.87,IRN IRIB Voice of I.R.Iran
+9.88,CHN CNR1 Jammer/Firedrake
+9.88,PHL FEBC Manila
+9.88,CHN CNR1 Jammer/Firedrake
+9.88,CHN CNR1 Jammer/Firedrake
+9.88,MDG MWV New Life Station
+9.89,CHN CNR1 Jammer/Firedrake
+9.89,CHN CNR1 Jammer/Firedrake
+9.9,CHN CNR1 Jammer/Firedrake
+9.9,GUM KTWR Trans World Radio
+9.91,GUM KTWR Trans World Radio
+9.92,PHL FEBC Manila
+9.94,CHN CNR1 Jammer/Firedrake
+9.94,HKG FEBC Radio Liangyou
+9.96,USA WRMI Radio Miami Int.
+9.96,USA WRMI Radio Miami Int.
+9.96,ISR 4XZ Israeli Navy Haifa
+9.97,CHN CNR1 Jammer/Firedrake
+9.98,HWA KVM70 Fax Honolulu
+10.0,RUS RWM Moscow
+10.0,CHN BPM Xian
+10.0,HWA WWVH Hawaii (f.ann.)
+10.0,USA WWV Colorado (m.ann.)
+10.02,HND COCESNA Cenamer Control
+10.12,CHN BAF Beijing Meteo Fax
+10.15,PTR NAU US Navy
+10.16,CHN CNR1 Jammer/Firedrake
+10.23,ISR 4XZ Israeli Navy Haifa
+10.54,CAN CFH Halifax Radio
+10.54,CAN CFH Halifax Radio
+10.55,AUS VMW Wiluna Met Fax
+10.55,AUS VMW Wiluna Met Fax
+10.55,AUS VMW Wiluna Met Fax
+10.55,AUS VMW Wiluna Met Fax
+10.55,AUS VMW Wiluna Met Fax
+10.55,AUS VMW Wiluna Met Fax
+10.55,AUS VMW Wiluna Met Fax
+10.55,AUS VMW Wiluna Met Fax
+10.82,CHN CNR1 Jammer/Firedrake
+10.87,CHN CNR1 Jammer/Firedrake
+10.92,CHN CNR1 Jammer/Firedrake
+10.94,CHN CNR1 Jammer/Firedrake
+10.96,CHN CNR1 Jammer/Firedrake
+11.03,AUS VMC Charleville Met Fax
+11.03,AUS VMC Charleville Met Fax
+11.03,AUS VMC Charleville Met Fax
+11.03,AUS VMC Charleville Met Fax
+11.03,AUS VMC Charleville Met Fax
+11.03,AUS VMC Charleville Met Fax
+11.03,AUS VMC Charleville Met Fax
+11.03,AUS VMC Charleville Met Fax
+11.03,AUS VMC Charleville Met Fax
+11.03,AUS VMC Charleville Met Fax
+11.03,AUS VMC Charleville Met Fax
+11.03,AUS VMC Charleville Met Fax
+11.09,HWA KVM70 Fax Honolulu
+11.09,HWA KVM70 Fax Honolulu
+11.1,CHN CNR1 Jammer/Firedrake
+11.12,CHN CNR1 Jammer/Firedrake
+11.15,CHN CNR1 Jammer/Firedrake
+11.18,USA US Air Force Messages
+11.36,RUS AF Transport Davlenie
+11.36,RUS AF Transport Kasta
+11.36,RUS AF Transport Klarnetist
+11.36,RUS AF Transport Korsar
+11.36,RUS AF Transport Magnetron
+11.36,RUS AF Transport Polis
+11.36,RUS AF Transport Proselok
+11.41,CHN CNR1 Jammer/Firedrake
+11.44,CHN CNR1 Jammer/Firedrake
+11.46,CHN CNR1 Jammer/Firedrake
+11.5,CHN CNR1 Jammer/Firedrake
+11.52,CHN CNR1 Jammer/Firedrake
+11.54,CHN CNR1 Jammer/Firedrake
+11.58,CHN CNR1 Jammer/Firedrake
+11.59,GUM KTWR Trans World Radio
+11.6,CHN CNR1 Jammer/Firedrake
+11.6,PHL FEBC Manila
+11.6,PHL FEBC Manila
+11.6,PHL FEBC Manila
+11.61,CHN CNR 2 China Business R.
+11.61,CHN CNR 2 China Business R.
+11.61,MDG MWV The Light of Life
+11.61,MDG MWV Radio Feda
+11.62,CHN CNR5 Cross-Strait Radio
+11.62,CHN CNR5 Cross-Strait Radio
+11.64,IRN IRIB Voice of I.R.Iran
+11.64,IRN IRIB Voice of I.R.Iran
+11.64,IRN IRIB Voice of I.R.Iran
+11.64,IRN IRIB Voice of I.R.Iran
+11.66,CHN CNR 2 China Business R.
+11.66,CHN CNR 2 China Business R.
+11.66,MLA RTM Limbang FM
+11.66,MLA RTM Miri FM
+11.66,MLA RTM Miri FM
+11.66,MLA RTM Wai FM
+11.66,MLA RTM Wai FM
+11.67,CHN CNR 2 China Business R.
+11.67,CHN CNR 2 China Business R.
+11.68,KRE KCBS Pyongyang
+11.69,PTR NAU US Navy
+11.7,CHN CNR1 DIGITAL
+11.7,CHN CNR 2 China Business R.
+11.71,IRN IRIB Voice of I.R.Iran
+11.71,IRN IRIB Voice of I.R.Iran
+11.71,IRN IRIB Voice of I.R.Iran
+11.71,IRN IRIB Voice of I.R.Iran
+11.71,IRN IRIB Voice of I.R.Iran
+11.71,IRN IRIB Voice of I.R.Iran
+11.71,CHN CNR1 Jammer/Firedrake
+11.72,NZL RNZ Pacific
+11.72,NZL RNZ Pacific
+11.72,NZL RNZ Pacific
+11.72,NZL RNZ Pacific
+11.73,CHN CNR1 Jammer/Firedrake
+11.73,IRN IRIB Voice of I.R.Iran
+11.73,IRN IRIB Voice of I.R.Iran
+11.73,CHN CNR1 Jammer/Firedrake
+11.73,IND AIR Akashvani Ext.Sce
+11.74,CHN CNR 2 China Business R.
+11.74,CHN CNR 2 China Business R.
+11.74,IRN IRIB Voice of I.R.Iran
+11.74,IRN IRIB Voice of I.R.Iran
+11.75,CHN CNR 2 China Business R.
+11.75,IRN IRIB Voice of I.R.Iran
+11.75,PHL FEBC Manila
+11.76,ALS KNLS New Life Station
+11.76,ALS KNLS New Life Station
+11.77,CHN PBS Xinjiang
+11.77,CHN PBS Xinjiang
+11.77,CHN PBS Xinjiang
+11.77,CHN PBS Xinjiang
+11.78,CHN CNR1 Jammer/Firedrake
+11.79,CHN CNR 2 China Business R.
+11.79,KOR KBS World Radio
+11.8,CHN CNR 2 China Business R.
+11.8,CHN CNR 2 China Business R.
+11.8,CHN CNR1 Jammer/Firedrake
+11.8,IND AIR Akashvani Ext.Sce
+11.8,IND AIR Akashvani Ext.Sce
+11.81,IND AIR Akashvani Ext.Sce
+11.81,KOR KBS World Radio
+11.81,KOR KBS World Radio
+11.81,KOR KBS World Radio
+11.81,KOR KBS World Radio
+11.81,KOR KBS World Radio
+11.81,CHN CNR1 Jammer/Firedrake
+11.81,CHN CNR1 Jammer/Firedrake
+11.82,MDG MWV African Pathways R.
+11.85,IRN IRIB Voice of I.R.Iran
+11.87,CHN CNR1 Jammer/Firedrake
+11.87,IND AIR Akashvani Ext.Sce
+11.87,IND AIR Akashvani Ext.Sce
+11.88,ALS KNLS New Life Station
+11.88,ALS KNLS New Life Station
+11.88,IRN IRIB Voice of I.R.Iran
+11.88,CHN CNR1 Jammer/Firedrake
+11.88,CHN PBS Xinjiang
+11.88,CHN PBS Xinjiang
+11.88,CHN PBS Xinjiang
+11.88,CHN PBS Xinjiang
+11.88,CHN PBS Xinjiang
+11.88,CHN PBS Xinjiang
+11.91,CHN CNR 2 China Business R.
+11.91,CHN CNR 2 China Business R.
+11.91,CHN CNR 2 China Business R.
+11.94,CHN CNR5 Cross-Strait Radio
+11.94,CHN CNR5 Cross-Strait Radio
+11.95,IRN IRIB Voice of I.R.Iran
+11.95,IRN IRIB Voice of I.R.Iran
+11.96,MDG MWV African Pathways R.
+11.97,CHN CNR1 Jammer/Firedrake
+11.97,CHN PBS Xinjiang
+11.97,CHN PBS Xinjiang
+11.98,PTR NAU US Navy
+11.99,CHN CNR1 Jammer/Firedrake
+12.02,USA NSS US Navy
+12.05,IRN IRIB Voice of I.R.Iran
+12.05,PHL FEBC Manila
+12.05,PHL FEBC Manila
+12.05,PHL FEBC Manila
+12.05,PHL FEBC Manila
+12.06,CHN CNR1 Jammer/Firedrake
+12.07,HKG FEBC Radio Liangyou 1
+12.08,CHN CNR 2 China Business R.
+12.08,CHN CNR 2 China Business R.
+12.1,PHL FEBC Manila
+12.1,PHL FEBC Manila
+12.1,PHL FEBC Manila
+12.1,PHL FEBC Manila
+12.1,PHL FEBC Manila
+12.1,PHL FEBC Manila
+12.1,PHL FEBC Manila
+12.12,HKG FEBC Radio Liangyou
+12.12,PHL FEBC Manila
+12.12,PHL FEBC Manila
+12.12,PHL FEBC Manila
+12.12,PHL FEBC Manila
+12.12,PTR NAU US Navy
+12.14,GUM KTWR Trans World Radio
+12.15,CHN CNR1 Jammer/Firedrake
+12.16,GUM KTWR Trans World Radio
+12.16,GUM KTWR Trans World Radio
+12.19,CHN CNR1 Jammer/Firedrake
+12.21,CHN CNR1 Jammer/Firedrake
+12.23,CHN CNR1 Jammer/Firedrake
+12.29,CAN VFF Iqaluit Radio
+12.35,USA WCY Marine Weather Ctr
+12.35,USA WCY Marine Weather Ctr
+12.35,USA WCY Marine Weather Ctr
+12.35,USA WCY Marine Weather Ctr
+12.36,NZL ZLM Taupo Maritime R.
+12.36,NZL ZLM Taupo Maritime R.
+12.36,NZL ZLM Taupo Maritime R.
+12.36,NZL ZLM Taupo Maritime R.
+12.36,AUS VMW Wiluna WA
+12.36,AUS VMW Wiluna WA
+12.37,AUS VMC Charleville QL
+12.37,AUS VMC Charleville QL
+12.38,CHN XSQ Guangzhou Meteo Fax
+12.38,CHN XSQ Guangzhou Meteo Fax
+12.38,CHN XSG Shanghai Radio Fax
+12.38,CHN XSG Shanghai Radio Fax
+12.38,CHN XSG Shanghai Radio Fax
+12.38,CHN XSG Shanghai Radio Fax
+12.38,CHN XSG Shanghai Radio Fax
+12.41,ALS NOJ Fax Kodiak
+12.41,ALS NOJ Fax Kodiak
+12.41,ALS NOJ Fax Kodiak
+12.41,ALS NOJ Fax Kodiak
+12.43,CHN CNR1 Jammer/Firedrake
+12.5,CHN CNR1 Jammer/Firedrake
+12.52,CAN VFF Iqaluit Radio
+12.56,TUR TAH Turk Radio Istanbul
+12.58,CAN VFF Iqaluit Radio
+12.58,CHN XSV Tianjin Radio
+12.58,CHN XSV Tianjin Radio
+12.6,GRC SVO Olimpia Radio
+12.62,TUR TAH Turk Radio Istanbul
+12.63,TUR TAH Turk Radio Istanbul
+12.64,CHN XSG Shanghai Radio
+12.65,CHN XSQ Guangzhou Radio
+12.65,TUR TAH Turk Radio Istanbul
+12.7,CHN XSQ Guangzhou Radio x30
+12.75,USA NMF Fax Boston MA
+12.75,USA NMF Fax Boston MA
+12.79,USA NMC Fax Pt Reyes CA
+12.79,USA NMC Fax Pt Reyes CA
+12.79,USA NMC Fax Pt Reyes CA
+12.79,USA NMC Fax Pt Reyes CA
+12.79,USA NMC Fax Pt Reyes CA
+12.79,USA NMC Fax Pt Reyes CA
+12.79,USA NMC Fax Pt Reyes CA
+12.79,USA NMG USCG New Orleans
+12.79,USA NMG USCG New Orleans
+12.79,USA NMG USCG New Orleans
+12.79,USA NMG USCG New Orleans
+12.79,USA NMG USCG New Orleans
+12.79,USA NMG USCG New Orleans
+12.79,USA NMG USCG New Orleans
+12.79,USA NMG USCG New Orleans
+12.79,USA NMG Fax New Orleans
+12.79,USA NMG Fax New Orleans
+12.79,USA NMG Fax New Orleans
+12.79,USA NMG Fax New Orleans
+12.79,CHN CNR1 Jammer/Firedrake
+12.82,CHN CNR1 Jammer/Firedrake
+12.82,CHN XSV Tianjin Radio
+12.84,HOL PBB Navy Den Helder
+12.84,KOR HLO Seoul Radio
+12.84,KOR HLO Seoul Radio
+12.86,CHN XSG Shanghai Radio
+12.88,CHN CNR1 Jammer/Firedrake
+12.92,KOR HLF Seoul Radio
+12.92,KOR HLF Seoul Radio
+12.92,KOR HLW Seoul Radio
+12.92,KOR HLW Seoul Radio
+12.94,KOR HLG Seoul Radio
+12.94,KOR HLG Seoul Radio
+13.02,CHN CNR1 Jammer/Firedrake
+13.07,CHN CNR1 Jammer/Firedrake
+13.08,CAN VFF Iqaluit Radio
+13.08,CAN VFF Iqaluit Radio
+13.08,CAN VFF Iqaluit Radio
+13.09,GUM NRV USCG Guam
+13.09,GUM NRV USCG Guam
+13.09,HWA NMO USCG Honolulu
+13.09,HWA NMO USCG Honolulu
+13.09,USA NMC USCG Point Reyes
+13.09,USA NMC USCG Point Reyes
+13.09,USA NMC USCG Point Reyes
+13.09,USA NMC USCG Point Reyes
+13.09,USA NMN USCG Chesapeake
+13.09,USA NMN USCG Chesapeake
+13.09,USA NMN USCG Chesapeake
+13.09,USA NMN USCG Chesapeake
+13.09,USA NMN USCG Chesapeake
+13.09,CHN XSV Tianjin Radio
+13.09,CHN XSV Tianjin Radio
+13.09,CHN XSV Tianjin Radio
+13.11,CHN XSQ Guangzhou Radio
+13.12,CHN XSV Tianjin Radio
+13.13,TUR TAH Turk Radio Istanbul
+13.13,TUR TAH Turk Radio Istanbul
+13.13,TUR TAH Turk Radio Istanbul
+13.13,TUR TAH Turk Radio Istanbul
+13.13,TUR TAH Turk Radio Istanbul
+13.13,TUR TAH Turk Radio Istanbul
+13.13,GRC SVO Olimpia Radio
+13.13,GRC SVO Olimpia Radio
+13.14,TUR TAH Turk Radio Istanbul
+13.15,AFS ZSC Cape Town Radio
+13.15,MCO 3AC Radio Monaco
+13.15,MCO 3AC Radio Monaco
+13.15,MCO 3AC Radio Monaco
+13.15,MCO 3AC Radio Monaco
+13.15,MCO 3AC Radio Monaco
+13.15,MCO 3AC Radio Monaco
+13.15,CHN XSQ Guangzhou Radio
+13.15,USA KLN Riverhead Radio
+13.16,USA WLO Mobile Radio
+13.16,CHN CNR1 Jammer/Firedrake
+13.17,TUR TAH Turk Radio Istanbul
+13.18,CHN XSQ Guangzhou Radio
+13.19,TUR TAH Turk Radio Istanbul
+13.23,PTR NAU US Navy
+13.47,CHN CNR1 Jammer/Firedrake
+13.49,CHN CNR1 Jammer/Firedrake
+13.51,CAN CFH Halifax Radio
+13.53,CHN CNR1 Jammer/Firedrake
+13.56,XUU RFID devices
+13.57,KOR HLL Seoul Meteo Fax
+13.59,CHN CNR1 Jammer/Firedrake
+13.61,KOR KBS World Radio
+13.63,CHN CNR1 Jammer/Firedrake
+13.64,CHN CNR1 Jammer/Firedrake
+13.65,RUS WRN Vsemirnaya Radioset
+13.67,CHN CNR1 Jammer/Firedrake
+13.67,CHN PBS Xinjiang
+13.67,CHN PBS Xinjiang
+13.67,CHN PBS Xinjiang
+13.67,CHN PBS Xinjiang
+13.67,MDG MWV African Pathways R.
+13.67,MDG MWV Radio Feda
+13.68,CHN CNR1 Jammer/Firedrake
+13.71,MDG MWV Radio Feda
+13.73,CHN CNR1 Jammer/Firedrake
+13.76,MDG MWV New Life Station
+13.77,CHN CNR 7 Greater Bay Area
+13.77,CHN CNR 7 Greater Bay Area
+13.79,CHN CNR1 DIGITAL
+13.79,CHN CNR1 Jammer/Firedrake
+13.81,CHN CNR1 DIGITAL
+13.82,CHN CNR1 DIGITAL
+13.82,CHN CNR1 Jammer/Firedrake
+13.84,CHN CNR1 DIGITAL
+13.84,CHN CNR1 Jammer/Firedrake
+13.87,CHN CNR1 Jammer/Firedrake
+13.87,PHL FEBC Manila
+13.89,CHN CNR1 Jammer/Firedrake
+13.92,AUS VMC Charleville Met Fax
+13.92,AUS VMC Charleville Met Fax
+13.92,AUS VMC Charleville Met Fax
+13.92,AUS VMC Charleville Met Fax
+13.92,AUS VMC Charleville Met Fax
+13.92,AUS VMC Charleville Met Fax
+13.92,AUS VMC Charleville Met Fax
+13.92,AUS VMC Charleville Met Fax
+13.92,AUS VMC Charleville Met Fax
+13.92,CHN CNR1 Jammer/Firedrake
+13.96,CHN CNR1 Jammer/Firedrake
+13.98,CHN CNR1 Jammer/Firedrake
+14.37,CHN BAF Beijing Meteo Fax
+14.37,CHN CNR1 Jammer/Firedrake
+14.43,CHN CNR1 Jammer/Firedrake
+14.56,CHN CNR1 Jammer/Firedrake
+14.63,CHN CNR1 Jammer/Firedrake
+14.67,CAN CHU Ottawa
+14.69,CHN CNR1 Jammer/Firedrake
+14.82,CHN CNR1 Jammer/Firedrake
+14.87,CHN CNR1 Jammer/Firedrake
+14.9,CHN CNR1 Jammer/Firedrake
+14.92,CHN CNR1 Jammer/Firedrake
+14.94,CHN CNR1 Jammer/Firedrake
+14.98,CHN CNR1 Jammer/Firedrake
+15.0,RUS RWM Moscow
+15.0,CHN BPM Xian
+15.0,HWA WWVH Hawaii (f.ann.)
+15.0,USA WWV Colorado (m.ann.)
+15.02,USA US Air Force Messages
+15.12,GUM KTWR Trans World Radio
+15.12,IRN IRIB Voice of I.R.Iran
+15.15,IRN IRIB Voice of I.R.Iran
+15.16,KOR KBS World Radio
+15.18,CHN CNR1 DIGITAL
+15.19,IND AIR Akashvani Ext.Sce
+15.23,IRN IRIB Voice of I.R.Iran
+15.23,IRN IRIB Voice of I.R.Iran
+15.24,IRN IRIB Voice of I.R.Iran
+15.24,IRN IRIB Voice of I.R.Iran
+15.24,IRN IRIB Voice of I.R.Iran
+15.24,IRN IRIB Voice of I.R.Iran
+15.24,IRN IRIB Voice of I.R.Iran
+15.26,IND AIR Akashvani Ext.Sce
+15.26,IRN IRIB Voice of I.R.Iran
+15.27,KOR KBS World Radio
+15.27,CHN CNR 2 China Business R.
+15.27,CHN CNR 2 China Business R.
+15.28,CHN CNR1 Jammer/Firedrake
+15.28,CHN CNR1 Jammer/Firedrake
+15.28,IND AIR Akashvani Ext.Sce
+15.28,IND AIR Akashvani Ext.Sce
+15.28,IND AIR Akashvani Ext.Sce
+15.33,PHL FEBC Manila
+15.33,PHL FEBC Manila
+15.34,CHN CNR1 Jammer/Firedrake
+15.34,IRN IRIB Voice of I.R.Iran
+15.34,IRN IRIB Voice of I.R.Iran
+15.36,CHN CNR1 Jammer/Firedrake
+15.38,IRN IRIB Voice of I.R.Iran
+15.41,CHN CNR1 Jammer/Firedrake
+15.41,CHN CNR1 Jammer/Firedrake
+15.41,IND AIR Akashvani Ext.Sce
+15.41,IND AIR Akashvani Ext.Sce
+15.41,IND AIR Akashvani Ext.Sce
+15.41,IND AIR Akashvani Ext.Sce
+15.41,IND AIR Akashvani Ext.Sce
+15.41,IND AIR Akashvani Ext.Sce
+15.41,IND AIR Akashvani Ext.Sce
+15.41,IND AIR Akashvani Ext.Sce
+15.41,IND AIR Akashvani Ext.Sce
+15.42,PHL FEBC Manila
+15.43,IRN IRIB Voice of I.R.Iran
+15.43,IRN IRIB Voice of I.R.Iran
+15.43,IRN IRIB Voice of I.R.Iran
+15.43,IRN IRIB Voice of I.R.Iran
+15.43,IRN IRIB Voice of I.R.Iran
+15.44,PHL FEBC Manila
+15.44,PHL FEBC Manila
+15.44,IRN IRIB Voice of I.R.Iran
+15.45,PHL FEBC Manila
+15.45,PHL FEBC Manila
+15.45,PHL FEBC Manila
+15.47,IRN IRIB Voice of I.R.Iran
+15.52,PHL FEBC Manila
+15.54,CHN CNR 2 China Business R.
+15.54,CHN CNR 2 China Business R.
+15.54,PHL FEBC Manila
+15.55,CHN CNR 7 Greater Bay Area
+15.55,CHN CNR 7 Greater Bay Area
+15.56,IRN IRIB Voice of I.R.Iran
+15.56,PHL FEBC Manila
+15.57,KOR KBS World Radio
+15.57,KOR KBS World Radio
+15.57,KOR KBS World Radio
+15.58,CHN CNR1 Jammer/Firedrake
+15.58,PHL FEBC Manila
+15.58,PHL FEBC Manila
+15.58,PHL FEBC Manila
+15.58,PHL FEBC Manila
+15.6,IRN IRIB Voice of I.R.Iran
+15.61,CHN CNR1 Jammer/Firedrake
+15.62,AUS VMW Wiluna Met Fax
+15.62,AUS VMW Wiluna Met Fax
+15.62,AUS VMW Wiluna Met Fax
+15.62,AUS VMW Wiluna Met Fax
+15.62,AUS VMW Wiluna Met Fax
+15.62,AUS VMW Wiluna Met Fax
+15.62,AUS VMW Wiluna Met Fax
+15.62,AUS VMW Wiluna Met Fax
+15.62,IRN IRIB Voice of I.R.Iran
+15.62,PHL FEBC Manila
+15.72,NZL RNZ Pacific
+15.74,CHN CNR1 Jammer/Firedrake
+15.76,CHN CNR1 DIGITAL
+15.76,CHN CNR1 Jammer/Firedrake
+15.77,USA WRMI Radio Miami Int.
+15.77,USA WRMI Radio Miami Int.
+15.78,CHN CNR1 Jammer/Firedrake
+15.8,CHN CNR1 Jammer/Firedrake
+15.87,CHN CNR1 Jammer/Firedrake
+15.89,CHN CNR1 Jammer/Firedrake
+15.92,CHN CNR1 Jammer/Firedrake
+15.94,CHN CNR1 Jammer/Firedrake
+15.96,USA NSS US Navy
+16.02,CHN BAF Beijing Meteo Fax
+16.04,SNG 9VF209 Meteo Fax
+16.04,SNG 9VF Kyodo News Agcy Fax
+16.04,SNG 9VF Kyodo News Agcy Fax
+16.1,CHN CNR1 Jammer/Firedrake
+16.12,PTR NAU US Navy
+16.14,HWA KVM70 Fax Honolulu
+16.16,CHN CNR1 Jammer/Firedrake
+16.21,PTR NAU US Navy
+16.25,CHN CNR1 Jammer/Firedrake
+16.3,CHN CNR1 Jammer/Firedrake
+16.42,CAN VFF Iqaluit Radio
+16.53,AUS VMW Wiluna WA
+16.53,NZL ZLM Taupo Maritime R.
+16.53,NZL ZLM Taupo Maritime R.
+16.53,NZL ZLM Taupo Maritime R.
+16.53,NZL ZLM Taupo Maritime R.
+16.55,AUS VMC Charleville QL
+16.56,CHN XSG Shanghai Radio Fax
+16.56,CHN XSG Shanghai Radio Fax
+16.56,CHN XSG Shanghai Radio Fax
+16.56,CHN XSG Shanghai Radio Fax
+16.56,CHN XSG Shanghai Radio Fax
+16.56,CHN XSQ Guangzhou Meteo Fax
+16.56,CHN XSQ Guangzhou Meteo Fax
+16.7,CAN VFF Iqaluit Radio
+16.79,CHN CNR1 Jammer/Firedrake
+16.8,CAN VFF Iqaluit Radio
+16.81,CHN XSV Tianjin Radio
+16.81,CHN XSV Tianjin Radio
+16.83,GRC SVO Olimpia Radio
+16.85,CHN XSQ Guangzhou Radio
+16.88,CHN XSQ Guangzhou Radio
+16.89,TUR TAH Turk Radio Istanbul
+16.9,CHN XSG Shanghai Radio
+16.91,KOR HLJ Seoul Radio
+16.98,CHN CNR1 Jammer/Firedrake
+16.99,KOR HLO Seoul Radio
+17.13,KOR HLW Seoul Radio
+17.13,CHN XSV Tianjin Radio
+17.15,CHL CBV Valparaiso Met Fax
+17.15,CHL CBV Valparaiso Met Fax
+17.15,CHL CBV Valparaiso Met Fax
+17.15,CHL CBV Valparaiso Met Fax
+17.15,USA NMG Fax New Orleans
+17.15,USA NMG Fax New Orleans
+17.15,USA NMG Fax New Orleans
+17.15,CHN CNR1 Jammer/Firedrake
+17.15,USA NMC Fax Pt Reyes CA
+17.15,USA NMC Fax Pt Reyes CA
+17.15,USA NMC Fax Pt Reyes CA
+17.15,USA NMC Fax Pt Reyes CA
+17.15,USA NMC Fax Pt Reyes CA
+17.15,USA NMC Fax Pt Reyes CA
+17.15,USA NMC Fax Pt Reyes CA
+17.24,CHN XSV Tianjin Radio
+17.26,TUR TAH Turk Radio Istanbul
+17.27,CHN XSV Tianjin Radio
+17.27,TUR TAH Turk Radio Istanbul
+17.29,TUR TAH Turk Radio Istanbul
+17.31,USA NMC USCG Point Reyes
+17.31,USA NMC USCG Point Reyes
+17.31,USA NMN USCG Chesapeake
+17.34,CHN XSV Tianjin Radio
+17.34,GRC SVO Olimpia Radio
+17.34,GRC SVO Olimpia Radio
+17.39,CHN XSV Tianjin Radio
+17.39,CHN XSV Tianjin Radio
+17.39,CHN XSV Tianjin Radio
+17.39,CHN XSV Tianjin Radio
+17.39,CHN XSV Tianjin Radio
+17.39,CHN XSV Tianjin Radio
+17.39,CHN XSV Tianjin Radio
+17.39,CHN XSV Tianjin Radio
+17.4,CHN XSQ Guangzhou Radio
+17.4,CHN CNR1 Jammer/Firedrake
+17.43,SNG 9VF209 Meteo Fax
+17.43,SNG 9VF Kyodo News Agcy Fax
+17.43,SNG 9VF Kyodo News Agcy Fax
+17.44,CHN CNR1 Jammer/Firedrake
+17.52,THA HSW64 Bangkok Meteo Fax
+17.52,THA HSW64 Bangkok Meteo Fax
+17.52,THA HSW64 Bangkok Meteo Fax
+17.52,THA HSW64 Bangkok Meteo Fax
+17.52,THA HSW64 Bangkok Meteo Fax
+17.52,THA HSW64 Bangkok Meteo Fax
+17.52,THA HSW64 Bangkok Meteo Fax
+17.52,THA HSW64 Bangkok Meteo Fax
+17.52,THA HSW64 Bangkok Meteo Fax
+17.52,THA HSW64 Bangkok Meteo Fax
+17.53,MDG MWV The Light of Life
+17.62,CHN CNR 2 China Business R.
+17.68,NZL RNZ Pacific
+17.77,CHN CNR1 DIGITAL
+17.78,CHN CNR1 Jammer/Firedrake
+17.79,USA PAB Radio Africa
+17.79,USA WRMI Radio Miami Int.
+17.8,CHN PBS Xinjiang
+18.03,RUS AF Transport Davlenie
+18.03,RUS AF Transport Kasta
+18.03,RUS AF Transport Klarnetist
+18.03,RUS AF Transport Korsar
+18.03,RUS AF Transport Magnetron
+18.03,RUS AF Transport Polis
+18.03,RUS AF Transport Proselok
+18.06,AUS VMW Wiluna Met Fax
+18.06,AUS VMW Wiluna Met Fax
+18.06,AUS VMW Wiluna Met Fax
+18.06,AUS VMW Wiluna Met Fax
+18.06,AUS VMW Wiluna Met Fax
+18.18,CHN CNR1 Jammer/Firedrake
+18.2,CHN CNR1 Jammer/Firedrake
+18.23,CHN BAF Beijing Meteo Fax
+18.9,CHN CNR1 Jammer/Firedrake
+18.97,CHN CNR1 Jammer/Firedrake
+19.77,CHN XSQ Guangzhou Radio
+19.78,CHN XSQ Guangzhou Radio
+19.79,CHN XSQ Guangzhou Radio
+20.0,USA WWV Colorado (m.ann.)
+20.47,AUS VMC Charleville Met Fax
+20.47,AUS VMC Charleville Met Fax
+20.47,AUS VMC Charleville Met Fax
+20.47,AUS VMC Charleville Met Fax
+20.47,AUS VMC Charleville Met Fax
+20.47,AUS VMC Charleville Met Fax
+21.49,CHN CNR1 Jammer/Firedrake
+21.53,CHN CNR1 DIGITAL
+21.59,CHN CNR1 DIGITAL
+21.63,CHN CNR1 Jammer/Firedrake
+21.64,CHN CNR1 Jammer/Firedrake
+21.8,CHN CNR1 Jammer/Firedrake
+22.38,GUM NRV NAVTEX Guam
+22.38,GUM NRV NAVTEX Guam
+22.38,GUM NRV NAVTEX Guam
+22.38,GUM NRV NAVTEX Guam
+22.38,GUM NRV NAVTEX Guam
+22.38,GUM NRV NAVTEX Guam
+22.38,HWA NMO NAVTEX Honolulu
+22.38,HWA NMO NAVTEX Honolulu
+22.44,CHN XSV Tianjin Radio
+22.53,USA NMC Fax Pt Reyes CA
+22.53,USA NMC Fax Pt Reyes CA
+22.61,KOR HLF Seoul Radio
+22.69,CHN XSV Tianjin Radio
+22.7,CHN XSV Tianjin Radio
+22.72,GRC SVO Olimpia Radio
+22.72,GRC SVO Olimpia Radio
+22.73,CHN XSQ Guangzhou Radio
+22.73,TUR TAH Turk Radio Istanbul
+22.74,CHN XSV Tianjin Radio
+22.75,CHN XSQ Guangzhou Radio
+22.76,TUR TAH Turk Radio Istanbul
+22.78,TUR TAH Turk Radio Istanbul
+22.84,CHN XSV Tianjin Radio
+25.0,FIN MIKES Espoo (1 W)
+25.0,USA WWV Colorado (m.ann.)
+26.15,CHN XSV Tianjin Radio
+26.16,GRC SVO Olimpia Radio
